@@ -1,3 +1,5 @@
+# Projectile-Motion Rubric: CSI-Edan-Padilla
+
 ## Value: 100 Points 
 | Criteria | Points | Score | 
 |----------|--------|-------| 

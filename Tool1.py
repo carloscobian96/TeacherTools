@@ -66,9 +66,9 @@ def createRubric(classSection,project,fileName):
             # Create rubric file
             with open(outputFilePath, "w+") as output, open(rubricFilePath, 'r') as rubric:
                 # Create header
-                rubricHeader = f"# {project} Rubric: {student['name']} \n"
+                rubricHeader = f"# {project} Rubric: {student['name']}"
                 print(rubricHeader)
-                output.write(rubricHeader)
+                output.write(f"{rubricHeader}\n\n")
                 # output.write("\n\n")
                 # output.write("Submission for: ")
 
