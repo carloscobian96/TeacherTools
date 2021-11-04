@@ -8,7 +8,7 @@
 | Gather data for your experiment | 10 | 10 | 
 | Print a descriptive paragraph | 10 | 7 | 
 | Convert your script into a function | 10 | 8 | 
-| Convert your script parameters into a single JSON Object  | 5 | 10 | 
+| Convert your script parameters into a single JSON Object  | 5 | 5 | 
 | Create a Python Class | 15 | 12 | 
 | 4 different configurations | 10 | 10 | 
 | Externalize your JSON | 10 | 10 | 
