@@ -1,0 +1,42 @@
+[{
+    "professor":"CSI-Carlos-Cobian",
+    "course":"CSI-NovaTech-2021",
+    "section":"02",
+    "students": [
+        {"name":"CSI-Juan-Arteaga"},
+        {"name":"CSI-Francisco-Baraga"},
+        {"name":"CSI-Dereck-Burgos"},
+        {"name":"CSI-Carlos-Lavergne"},
+        {"name":"CSI-Guillermo-Mendez"},
+        {"name":"CSI-Luca-Pirillo"},
+        {"name":"CSI-Gabriel-Quiros"},
+        {"name":"CSI-Armando-Rodriguez"},
+        {"name":"CSI-Jayden-Ujaque"},
+        {"name":"CSI-Carlos-Umpierre"},
+        {"name":"CSI-Octavio-Vazquez"},
+        {"name":"CSI-Erick-Vazquez"},
+        {"name":"CSI-Francisco-Viejo1"},
+        {"name":"CSI-Luis-Zayas"}
+    ]
+}, {
+    "professor":"CSI-Carlos-Cobian",
+    "course":"CSI-NovaTech-2021",
+    "section":"06",
+    "students": [
+        {"name":"CSI-Aramis-Betancourt"},
+        {"name":"CSI-Fernando-Castello"},
+        {"name":"CSI-Hugo-Cordova"},
+        {"name":"CSI-Ricardo-Farinacci"},
+        {"name":"CSI-Gian-Girald"},
+        {"name":"CSI-Juan-Jimenez"},
+        {"name":"CSI-Samuel-Lopez"},
+        {"name":"CSI-Josue-Martinez"},
+        {"name":"CSI-Fernando-Ortiz"},
+        {"name":"CSI-Andres-Quintana"},
+        {"name":"CSI-Ricardo-Rovira"},
+        {"name":"CSI-Ignacio-Soto"},
+        {"name":"CSI-Dylan-Velez"},
+        {"name":"CSI-Alejandro-Ventura"},
+        {"name":"CSI-Francisco-Viejo"}
+    ]
+}]

@@ -1,0 +1,35 @@
+[{
+    "professor":"CSI-Carlos-Cobian",
+    "course":"CSI-Python-2021",
+    "section":"02",
+    "students": [
+        {"name":"CSI-Hermann-Bauer"},
+        {"name":"CSI-Rafael-Bonilla"},
+        {"name":"CSI-Diego-Cedeno"},
+        {"name":"CSI-Pablo-DeJesus"},
+        {"name":"CSI-Diego-Gaud"},
+        {"name":"CSI-Nicolas-Giner1"},
+        {"name":"CSI-Andres-Juncos"},
+        {"name":"CSI-Edan-Padilla"},
+        {"name":"CSI-Francisco-Ruiz"},
+        {"name":"CSI-Mario-Sanchez"}
+    ]
+}, {
+    "professor":"CSI-Carlos-Cobian",
+    "course":"CSI-Python-2021",
+    "section":"03",
+    "students": [
+        {"name":"CSI-Francisco-Aponte"},
+        {"name":"CSI-Fernando-Arias"},
+        {"name":"CSI-Rolando-Baez"},
+        {"name":"CSI-Nicolas-Barreras"},
+        {"name":"CSI-Jose-Canto"},
+        {"name":"CSI-Ricardo-Davila"},
+        {"name":"CSI-Mauricio-Malatrasi"},
+        {"name":"CSI-Carlos-Quinones"},
+        {"name":"CSI-Ezequiel-Ramirez"},
+        {"name":"CSI-Osvaldo-Rocafort"},
+        {"name":"CSI-Andres-Rodriguez"},
+        {"name":"CSI-Carlos-Xu"}
+    ]
+}]

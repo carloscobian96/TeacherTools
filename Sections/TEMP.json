@@ -1,0 +1,8 @@
+[ {
+    "professor":"CSI-Carlos-Cobian",
+    "course":"CSI-Python-2021",
+    "section":"02",
+    "students": [
+        {"name":"CSI-Edan-Padilla"}
+    ]
+}]

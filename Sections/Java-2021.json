@@ -1,0 +1,15 @@
+[{
+    "professor":"CSI-Carlos-Cobian",
+    "course":"CSI-Java-2021",
+    "section":"01", 
+    "students": [
+        {"name":"CSI-Julio-Borges"},
+        {"name":"CSI-Pedro-Irene"},
+        {"name":"CSI-George-Lopez"},
+        {"name":"CSI-Antonio-Negron"},
+        {"name":"CSI-Pedro-Ochoa"},
+        {"name":"CSI-Guillermo-Perez"},
+        {"name":"CSI-David-Quiros"},
+        {"name":"CSI-Mateo-Ruiz"}
+    ]
+}]
