@@ -1,0 +1,761 @@
+{
+    "DomainData": {
+        "cctId": "a87e5ccf-a1f4-4df6-b2b7-85fbed88d766",
+        "MainText": "Centro de preferencia de la privacidad",
+        "MainInfoText": "Cuando visita cualquier sitio web, el mismo podría obtener o guardar información en su navegador, generalmente mediante el uso de cookies. Esta información puede ser acerca de usted, sus preferencias o su dispositivo, y se usa principalmente para que el sitio funcione según lo esperado. Por lo general, la información no lo identifica directamente, pero puede proporcionarle una experiencia web más personalizada. Ya que respetamos su derecho a la privacidad, usted puede escoger no permitirnos usar ciertas cookies. Haga clic en los encabezados de cada categoría para saber más y cambiar nuestras configuraciones predeterminadas. Sin embargo, el bloqueo de algunos tipos de cookies puede afectar su experiencia en el sitio y los servicios que podemos ofrecer.",
+        "AboutText": "Más información",
+        "AboutCookiesText": "Su privacidad",
+        "ConfirmText": "Permitirlas todas",
+        "AllowAllText": "Guardar los ajustes",
+        "CookiesUsedText": "Cookies utilizadas",
+        "AboutLink": "https://cookiepedia.co.uk/giving-consent-to-cookies",
+        "HideToolbarCookieList": true,
+        "ActiveText": "Activas",
+        "AlwaysActiveText": "Activas siempre",
+        "AlertNoticeText": "Al hacer clic en “Aceptar todas las cookies”, usted acepta que las cookies se guarden en su dispositivo para mejorar la navegación del sitio, analizar el uso del mismo, y colaborar con nuestros estudios para marketing.",
+        "AlertCloseText": "Cerrar",
+        "AlertMoreInfoText": "Configuración de cookies",
+        "CookieSettingButtonText": "Preferencias de cookies",
+        "AlertAllowCookiesText": "Aceptar todas las cookies",
+        "CloseShouldAcceptAllCookies": false,
+        "LastReconsentDate": 1597031731543,
+        "BannerTitle": "",
+        "ForceConsent": false,
+        "BannerPushesDownPage": false,
+        "InactiveText": "Desactivadas",
+        "CookiesText": "Cookies",
+        "CategoriesText": "Subgrupo de cookies",
+        "IsLifespanEnabled": true,
+        "LifespanText": "Vida útil",
+        "VendorLevelOptOut": false,
+        "HasScriptArchive": false,
+        "BannerPosition": "bottom",
+        "PreferenceCenterPosition": "default",
+        "PreferenceCenterConfirmText": "Confirmar mis preferencias",
+        "VendorListText": "Lista de proveedores IAB",
+        "ThirdPartyCookieListText": "Información de las cookies",
+        "PreferenceCenterManagePreferencesText": "Gestionar las preferencias de consentimiento",
+        "PreferenceCenterMoreInfoScreenReader": "Abrir una nueva ventana",
+        "CookieListTitle": "Lista de cookies",
+        "CookieListDescription": "Una cookie es un fragmento pequeño de datos (archivos de texto) que un sitio web, cuando es visitado por un usuario, le pregunta a su navegador para almacenarse en su dispositivo y así recordar información acerca de usted, como por ejemplo la preferencia de idioma o su información para iniciar sesión. Estas cookies son establecidas por nosotros, y se llaman cookies de primeras partes. También usamos cookies de terceras partes (que son cookies de un dominio diferente al dominio del sitio web que está visitando) para nuestros estudios de anuncios y marketing. Específicamente, usamos las cookies y otras tecnologías de seguimiento para los siguientes propósitos:",
+        "Groups": [
+            {
+                "ShowInPopup": true,
+                "Order": "1",
+                "OptanonGroupId": "C0001",
+                "Parent": "",
+                "ShowSubgroup": true,
+                "ShowSubGroupDescription": true,
+                "ShowSubgroupToggle": false,
+                "GroupDescription": "Estas cookies son necesarias para que el sitio web funcione y no se pueden desactivar en nuestros sistemas. Usualmente están configuradas para responder a acciones hechas por usted para recibir servicios, tales como ajustar sus preferencias de privacidad, iniciar sesión en el sitio, o llenar formularios. Usted puede configurar su navegador para bloquear o alertar la presencia de estas cookies, pero algunas partes del sitio web no funcionarán. Estas cookies no guardan ninguna información personal identificable.",
+                "GroupName": "Cookies estrictamente necesarias",
+                "IsIabPurpose": false,
+                "FirstPartyCookies": [
+                    {
+                        "Name": "__cfduid",
+                        "Host": "blog.crypto.com",
+                        "IsSession": false,
+                        "Length": "30",
+                        "description": "Cookie associated with sites using CloudFlare, used to speed up page load times. According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from. It does not contain any user identification information.    "
+                    },
+                    {
+                        "Name": "OptanonConsent",
+                        "Host": "crypto.com",
+                        "IsSession": false,
+                        "Length": "365",
+                        "description": "This cookie is set by the cookie compliance solution from OneTrust. It stores information about the categories of cookies the site uses and whether visitors have given or withdrawn consent for the use of each category. This enables site owners to prevent cookies in each category from being set in the users browser, when consent is not given. The cookie has a normal lifespan of one year, so that returning visitors to the site will have their preferences remembered. It contains no information that can identify the site visitor."
+                    },
+                    {
+                        "Name": "__cflb",
+                        "Host": "blog.crypto.com",
+                        "IsSession": false,
+                        "Length": "1",
+                        "description": "This cookie is used by Cloudfare for load balancing."
+                    },
+                    {
+                        "Name": "OptanonAlertBoxClosed",
+                        "Host": ".crypto.com",
+                        "IsSession": false,
+                        "Length": "365",
+                        "description": "This cookie is set by websites using certain versions of the cookie law compliance solution from OneTrust.  It is set after visitors have seen a cookie information notice and in some cases only when they actively close the notice down.  It enables the website not to show the message more than once to a user.  The cookie has a one year lifespan and contains no personal information."
+                    },
+                    {
+                        "Name": "__cfruid",
+                        "Host": "crypto.com",
+                        "IsSession": true,
+                        "Length": "0",
+                        "description": "Cookie associated with sites using CloudFlare, used to identify trusted web traffic."
+                    }
+                ],
+                "Hosts": [
+                    {
+                        "HostName": "cloudflare.com",
+                        "DisplayName": "cloudflare.com",
+                        "HostId": "H11",
+                        "Description": "",
+                        "PrivacyPolicy": "",
+                        "Cookies": [
+                            {
+                                "Name": "__cfduid",
+                                "Host": "cloudflare.com",
+                                "IsSession": false,
+                                "Length": "30",
+                                "description": "This domain is owned by Cloudflare, a USA based company providing technology to improve web page loading speeds for high traffic websites."
+                            }
+                        ]
+                    },
+                    {
+                        "HostName": "onetrust.com",
+                        "DisplayName": "onetrust.com",
+                        "HostId": "H8",
+                        "Description": "",
+                        "PrivacyPolicy": "",
+                        "Cookies": [
+                            {
+                                "Name": "__cfduid",
+                                "Host": "onetrust.com",
+                                "IsSession": false,
+                                "Length": "30",
+                                "description": "This domain is owned by OneTrust, a privacy management software which helps organizations achieve compliance with global regulations."
+                            }
+                        ]
+                    }
+                ],
+                "PurposeId": "D531E1ED-3DBB-4259-9908-34314312F9D2",
+                "CustomGroupId": "C0001",
+                "GroupId": "15240599-8839-4b56-bbf8-378b1bcaa8a7",
+                "Status": "always active",
+                "IsDntEnabled": false,
+                "Type": "COOKIE",
+                "DescriptionLegal": "",
+                "HasLegIntOptOut": false,
+                "HasConsentOptOut": true
+            },
+            {
+                "ShowInPopup": true,
+                "Order": "2",
+                "OptanonGroupId": "C0002",
+                "Parent": "",
+                "ShowSubgroup": true,
+                "ShowSubGroupDescription": true,
+                "ShowSubgroupToggle": false,
+                "GroupDescription": "Estas cookies nos permiten contar las visitas y fuentes de circulación para poder medir y mejorar el desempeño de nuestro sitio. Nos ayudan a saber qué páginas son las más o menos populares, y ver cuántas personas visitan el sitio. Toda la información que recogen estas cookies es agregada y, por lo tanto, anónima. Si no permite estas cookies no sabremos cuándo visitó nuestro sitio, y por lo tanto no podremos saber cuándo lo visitó.",
+                "GroupName": "Cookies de rendimiento",
+                "IsIabPurpose": false,
+                "FirstPartyCookies": [
+                    {
+                        "Name": "_gclxxxx",
+                        "Host": "crypto.com",
+                        "IsSession": false,
+                        "Length": "90",
+                        "description": "Google conversion tracking cookie"
+                    },
+                    {
+                        "Name": "_gat_UA-99317940-1",
+                        "Host": "crypto.com",
+                        "IsSession": false,
+                        "Length": "0",
+                        "description": "This is a pattern type cookie set by Google Analytics, where the pattern element on the name contains the unique identity number of the account or website it relates to. It appears to be a variation of the _gat cookie which is used to limit the amount of data recorded by Google on high traffic volume websites."
+                    },
+                    {
+                        "Name": "_gat_UA-nnnnnnn-nn",
+                        "Host": "crypto.com",
+                        "IsSession": false,
+                        "Length": "0",
+                        "description": "This is a pattern type cookie set by Google Analytics, where the pattern element on the name contains the unique identity number of the account or website it relates to. It appears to be a variation of the _gat cookie which is used to limit the amount of data recorded by Google on high traffic volume websites."
+                    },
+                    {
+                        "Name": "_gid",
+                        "Host": "crypto.com",
+                        "IsSession": false,
+                        "Length": "1",
+                        "description": "This cookie name is associated with Google Universal Analytics. This appears to be a new cookie and as of Spring 2017 no information is available from Google.  It appears to store and update a unique value for each page visited."
+                    },
+                    {
+                        "Name": "_ga",
+                        "Host": "crypto.com",
+                        "IsSession": false,
+                        "Length": "730",
+                        "description": "This cookie name is associated with Google Universal Analytics - which is a significant update to Google's more commonly used analytics service. This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports.  By default it is set to expire after 2 years, although this is customisable by website owners."
+                    },
+                    {
+                        "Name": "_gat",
+                        "Host": "crypto.com",
+                        "IsSession": false,
+                        "Length": "0",
+                        "description": "This cookie name is associated with Google Universal Analytics, according to documentation it is used to throttle the request rate - limiting the collection of data on high traffic sites. It expires after 10 minutes."
+                    }
+                ],
+                "Hosts": [
+                    {
+                        "HostName": "nr-data.net",
+                        "DisplayName": "nr-data.net",
+                        "HostId": "H2",
+                        "Description": "",
+                        "PrivacyPolicy": "",
+                        "Cookies": [
+                            {
+                                "Name": "JSESSIONID",
+                                "Host": "nr-data.net",
+                                "IsSession": true,
+                                "Length": "0",
+                                "description": "This domain is controlled by New Relic, which provides a platform for monitoring the performance of web and mobile applications."
+                            }
+                        ]
+                    }
+                ],
+                "PurposeId": "20B795B3-0949-4D7C-94BF-4E30F05D67A2",
+                "CustomGroupId": "C0002",
+                "GroupId": "b1d09849-966b-44d4-a0aa-ee54a1c0fee2",
+                "Status": "inactive",
+                "IsDntEnabled": false,
+                "Type": "COOKIE",
+                "DescriptionLegal": "",
+                "HasLegIntOptOut": false,
+                "HasConsentOptOut": true
+            },
+            {
+                "ShowInPopup": true,
+                "Order": "3",
+                "OptanonGroupId": "C0003",
+                "Parent": "",
+                "ShowSubgroup": true,
+                "ShowSubGroupDescription": true,
+                "ShowSubgroupToggle": false,
+                "GroupDescription": "Estas cookies permiten que el sitio ofrezca una mejor funcionalidad y personalización. Pueden ser establecidas por nosotros o por terceras partes cuyos servicios hemos agregado a nuestras páginas. Si no permite estas cookies algunos de nuestros servicios no funcionarán correctamente.",
+                "GroupName": "Cookies de funcionalidad",
+                "IsIabPurpose": false,
+                "FirstPartyCookies": [
+                    {
+                        "Name": "__tld__",
+                        "Host": "crypto.com",
+                        "IsSession": true,
+                        "Length": "0",
+                        "description": "__tld__"
+                    },
+                    {
+                        "Name": "ajs%3Atest",
+                        "Host": "crypto.com",
+                        "IsSession": false,
+                        "Length": "365",
+                        "description": "This performance cookie counts visits and tracks other website traffic-related metrics. Cookies in this domain have lifespan of 1 year."
+                    },
+                    {
+                        "Name": "ajs_anonymous_id",
+                        "Host": "crypto.com",
+                        "IsSession": false,
+                        "Length": "365",
+                        "description": "These cookies are generally used for Analytics and help count how many people visit a certain site by tracking if you have visited before. This cookie has a lifespan of 1 year."
+                    },
+                    {
+                        "Name": "ajs%3Acookies",
+                        "Host": "crypto.com",
+                        "IsSession": false,
+                        "Length": "365",
+                        "description": "This cookie supports use, service performance, and functionality of websites. Cookies in this domain have lifespan of 1 year."
+                    }
+                ],
+                "Hosts": [
+                    {
+                        "HostName": "cdn.embedly.com",
+                        "DisplayName": "cdn.embedly.com",
+                        "HostId": "H19",
+                        "Description": "",
+                        "PrivacyPolicy": "",
+                        "Cookies": [
+                            {
+                                "Name": "em_cdn_uid",
+                                "Host": "cdn.embedly.com",
+                                "IsSession": false,
+                                "Length": "365",
+                                "description": "This domain is owned by Embedly which provides technology to put rich media and other content into a website."
+                            }
+                        ]
+                    },
+                    {
+                        "HostName": "embedly.com",
+                        "DisplayName": "embedly.com",
+                        "HostId": "H23",
+                        "Description": "",
+                        "PrivacyPolicy": "",
+                        "Cookies": [
+                            {
+                                "Name": "__cfduid",
+                                "Host": "embedly.com",
+                                "IsSession": false,
+                                "Length": "3672",
+                                "description": "This domain is owned by Embedly which provides technology to put rich media and other content into a website."
+                            }
+                        ]
+                    }
+                ],
+                "PurposeId": "402D589F-04CE-43E1-8565-C9D32102F4D4",
+                "CustomGroupId": "C0003",
+                "GroupId": "f8d1352f-85d3-4f04-8203-450e54a25e58",
+                "Status": "inactive",
+                "IsDntEnabled": false,
+                "Type": "COOKIE",
+                "DescriptionLegal": "",
+                "HasLegIntOptOut": false,
+                "HasConsentOptOut": true
+            },
+            {
+                "ShowInPopup": true,
+                "Order": "4",
+                "OptanonGroupId": "C0004",
+                "Parent": "",
+                "ShowSubgroup": true,
+                "ShowSubGroupDescription": true,
+                "ShowSubgroupToggle": false,
+                "GroupDescription": "Estas cookies pueden estar en todo el sitio web, colocadas por nuestros socios publicitarios. Estos negocios pueden utilizarlas para crear un perfil de sus intereses y mostrarle anuncios relevantes en otros sitios. No almacenan información personal directamente, sino que se basan en la identificación única de su navegador y dispositivo de acceso al Internet. Si no permite estas cookies, tendrá menos publicidad dirigida.",
+                "GroupName": "Cookies dirigidas",
+                "IsIabPurpose": false,
+                "FirstPartyCookies": [
+                    {
+                        "Name": "_gat_xxxxxxxxxxxxxxxxxxxxxxxxxx",
+                        "Host": "crypto.com",
+                        "IsSession": false,
+                        "Length": "0",
+                        "description": "Google Analytics Cookies"
+                    },
+                    {
+                        "Name": "_fbp",
+                        "Host": "com",
+                        "IsSession": false,
+                        "Length": "90",
+                        "description": "Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers"
+                    },
+                    {
+                        "Name": "_gat_gtag_xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+                        "Host": "crypto.com",
+                        "IsSession": false,
+                        "Length": "0",
+                        "description": "Google Analytics"
+                    },
+                    {
+                        "Name": "ajs_user_id",
+                        "Host": "crypto.com",
+                        "IsSession": false,
+                        "Length": "0",
+                        "description": "This cookie helps track visitor usage, events, target marketing, and can also measure application performance and stability. Cookies in this domain have lifespan of 1 year."
+                    },
+                    {
+                        "Name": "ajs_group_id",
+                        "Host": "crypto.com",
+                        "IsSession": false,
+                        "Length": "0",
+                        "description": "These cookies track visitor usage and events within the website. Cookies in this domain have lifespan of 1 year."
+                    }
+                ],
+                "Hosts": [
+                    {
+                        "HostName": "youtube.com",
+                        "DisplayName": "youtube.com",
+                        "HostId": "H18",
+                        "Description": "",
+                        "PrivacyPolicy": "",
+                        "Cookies": [
+                            {
+                                "Name": "YSC",
+                                "Host": "youtube.com",
+                                "IsSession": true,
+                                "Length": "0",
+                                "description": "YouTube is a Google owned platform for hosting and sharing videos. YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites."
+                            },
+                            {
+                                "Name": "GPS",
+                                "Host": "youtube.com",
+                                "IsSession": false,
+                                "Length": "0",
+                                "description": "YouTube is a Google owned platform for hosting and sharing videos. YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites."
+                            },
+                            {
+                                "Name": "VISITOR_INFO1_LIVE",
+                                "Host": "youtube.com",
+                                "IsSession": false,
+                                "Length": "180",
+                                "description": "This cookie is used as a unique identifier to track viewing of videos"
+                            }
+                        ]
+                    },
+                    {
+                        "HostName": "doubleclick.net",
+                        "DisplayName": "doubleclick.net",
+                        "HostId": "H13",
+                        "Description": "",
+                        "PrivacyPolicy": "",
+                        "Cookies": [
+                            {
+                                "Name": "IDE",
+                                "Host": "doubleclick.net",
+                                "IsSession": false,
+                                "Length": "390",
+                                "description": "This domain is owned by Doubleclick (Google). The main business activity is: Doubleclick is Googles real time bidding advertising exchange"
+                            },
+                            {
+                                "Name": "test_cookie",
+                                "Host": "doubleclick.net",
+                                "IsSession": false,
+                                "Length": "0",
+                                "description": "This domain is owned by Doubleclick (Google). The main business activity is: Doubleclick is Googles real time bidding advertising exchange"
+                            }
+                        ]
+                    },
+                    {
+                        "HostName": "twitter.com",
+                        "DisplayName": "twitter.com",
+                        "HostId": "H20",
+                        "Description": "",
+                        "PrivacyPolicy": "",
+                        "Cookies": [
+                            {
+                                "Name": "personalization_id",
+                                "Host": "twitter.com",
+                                "IsSession": false,
+                                "Length": "730",
+                                "description": "This domain is owned by Twitter. The main business activity is: Social Networking Services.  Where twitter acts as a third party host, it collects data through a range of plug-ins and integrations, that is primarily used for tracking and targeting."
+                            }
+                        ]
+                    },
+                    {
+                        "HostName": "www.linkedin.com",
+                        "DisplayName": "www.linkedin.com",
+                        "HostId": "H5",
+                        "Description": "",
+                        "PrivacyPolicy": "",
+                        "Cookies": [
+                            {
+                                "Name": "bscookie",
+                                "Host": "www.linkedin.com",
+                                "IsSession": false,
+                                "Length": "730",
+                                "description": "This domain is owned by LinkedIn, the business networking platform. It typically acts as a third party host where website owners have placed one of its content sharing buttons in their pages, although its content and services can be embedded in other ways. Although such buttons add functionality to the website they are on, cookies are set regardless of whether or not the visitor has an active Linkedin profile, or agreed to their terms and conditions.  For this reason it is classified as a primarily tracking/targeting domain."
+                            }
+                        ]
+                    },
+                    {
+                        "HostName": "linkedin.com",
+                        "DisplayName": "linkedin.com",
+                        "HostId": "H6",
+                        "Description": "",
+                        "PrivacyPolicy": "",
+                        "Cookies": [
+                            {
+                                "Name": "UserMatchHistory",
+                                "Host": "linkedin.com",
+                                "IsSession": false,
+                                "Length": "30",
+                                "description": "This domain is owned by LinkedIn, the business networking platform. It typically acts as a third party host where website owners have placed one of its content sharing buttons in their pages, although its content and services can be embedded in other ways. Although such buttons add functionality to the website they are on, cookies are set regardless of whether or not the visitor has an active Linkedin profile, or agreed to their terms and conditions.  For this reason it is classified as a primarily tracking/targeting domain."
+                            },
+                            {
+                                "Name": "bcookie",
+                                "Host": "linkedin.com",
+                                "IsSession": false,
+                                "Length": "730",
+                                "description": "This domain is owned by LinkedIn, the business networking platform. It typically acts as a third party host where website owners have placed one of its content sharing buttons in their pages, although its content and services can be embedded in other ways. Although such buttons add functionality to the website they are on, cookies are set regardless of whether or not the visitor has an active Linkedin profile, or agreed to their terms and conditions.  For this reason it is classified as a primarily tracking/targeting domain."
+                            },
+                            {
+                                "Name": "lidc",
+                                "Host": "linkedin.com",
+                                "IsSession": false,
+                                "Length": "1",
+                                "description": "This domain is owned by LinkedIn, the business networking platform. It typically acts as a third party host where website owners have placed one of its content sharing buttons in their pages, although its content and services can be embedded in other ways. Although such buttons add functionality to the website they are on, cookies are set regardless of whether or not the visitor has an active Linkedin profile, or agreed to their terms and conditions.  For this reason it is classified as a primarily tracking/targeting domain."
+                            },
+                            {
+                                "Name": "lissc",
+                                "Host": "linkedin.com",
+                                "IsSession": false,
+                                "Length": "365",
+                                "description": "This domain is owned by LinkedIn, the business networking platform. It typically acts as a third party host where website owners have placed one of its content sharing buttons in their pages, although its content and services can be embedded in other ways. Although such buttons add functionality to the website they are on, cookies are set regardless of whether or not the visitor has an active Linkedin profile, or agreed to their terms and conditions.  For this reason it is classified as a primarily tracking/targeting domain."
+                            },
+                            {
+                                "Name": "lang",
+                                "Host": "linkedin.com",
+                                "IsSession": true,
+                                "Length": "0",
+                                "description": "This domain is owned by LinkedIn, the business networking platform. It typically acts as a third party host where website owners have placed one of its content sharing buttons in their pages, although its content and services can be embedded in other ways. Although such buttons add functionality to the website they are on, cookies are set regardless of whether or not the visitor has an active Linkedin profile, or agreed to their terms and conditions.  For this reason it is classified as a primarily tracking/targeting domain."
+                            }
+                        ]
+                    },
+                    {
+                        "HostName": "adform.net",
+                        "DisplayName": "adform.net",
+                        "HostId": "H33",
+                        "Description": "",
+                        "PrivacyPolicy": "",
+                        "Cookies": [
+                            {
+                                "Name": "C",
+                                "Host": "adform.net",
+                                "IsSession": false,
+                                "Length": "31",
+                                "description": "This domain is owned by Adform. The main business activity is: Real time bidding for display advertising to targeted audiences."
+                            },
+                            {
+                                "Name": "uid",
+                                "Host": "adform.net",
+                                "IsSession": false,
+                                "Length": "60",
+                                "description": "This domain is owned by Adform. The main business activity is: Real time bidding for display advertising to targeted audiences."
+                            }
+                        ]
+                    },
+                    {
+                        "HostName": "google.com",
+                        "DisplayName": "google.com",
+                        "HostId": "H22",
+                        "Description": "",
+                        "PrivacyPolicy": "",
+                        "Cookies": [
+                            {
+                                "Name": "NID",
+                                "Host": "google.com",
+                                "IsSession": false,
+                                "Length": "183",
+                                "description": "This domain is owned by Google Inc. Although Google is primarily known as a search engine, the company provides a diverse range of products and services. Its main source of revenue however is advertising. Google tracks users extensively both through its own products and sites, and the numerous technologies embedded into many millions of websites around the world. It uses the data gathered from most of these services to profile the interests of web users and sell advertising space to organisations based on such interest profiles as well as aligning adverts to the content on the pages where its customer's adverts appear."
+                            }
+                        ]
+                    },
+                    {
+                        "HostName": "facebook.com",
+                        "DisplayName": "facebook.com",
+                        "HostId": "H7",
+                        "Description": "",
+                        "PrivacyPolicy": "",
+                        "Cookies": [
+                            {
+                                "Name": "fr",
+                                "Host": "facebook.com",
+                                "IsSession": false,
+                                "Length": "90",
+                                "description": "Contains browser and user unique ID combination, used for targeted advertising."
+                            }
+                        ]
+                    },
+                    {
+                        "HostName": "ads.linkedin.com",
+                        "DisplayName": "ads.linkedin.com",
+                        "HostId": "H9",
+                        "Description": "",
+                        "PrivacyPolicy": "",
+                        "Cookies": [
+                            {
+                                "Name": "lang",
+                                "Host": "ads.linkedin.com",
+                                "IsSession": true,
+                                "Length": "0",
+                                "description": "This domain is owned by LinkedIn, the business networking platform. This sub-domain is connected with LinkedIn's marketing services that enable website owners to gain insight into types of users on their site based on LinkedIn profile data, to improve targetng."
+                            }
+                        ]
+                    },
+                    {
+                        "HostName": "www.facebook.com",
+                        "DisplayName": "www.facebook.com",
+                        "HostId": "H10",
+                        "Description": "",
+                        "PrivacyPolicy": "",
+                        "Cookies": [
+                            {
+                                "Name": "",
+                                "Host": "www.facebook.com",
+                                "IsSession": true,
+                                "Length": "0",
+                                "description": "This domain is owned by Facebook, which is the world's largest social networking service.  As a third party host provider, it mostly collects data on the interests of users via widgets such as the 'Like' button found on many websites.  This is used to serve targeted advertising to its users when logged into its services.  In 2014 it also started serving up behaviourally targeted advertising on other websites, similar to most dedicated online marketing companies."
+                            }
+                        ]
+                    }
+                ],
+                "PurposeId": "DDC124F5-BCC1-421D-B244-9479A0D61D52",
+                "CustomGroupId": "C0004",
+                "GroupId": "047c9202-6393-45c2-8405-edf3e316792e",
+                "Status": "inactive",
+                "IsDntEnabled": true,
+                "Type": "COOKIE",
+                "DescriptionLegal": "",
+                "HasLegIntOptOut": false,
+                "HasConsentOptOut": true
+            },
+            {
+                "ShowInPopup": true,
+                "Order": "5",
+                "OptanonGroupId": "C0005",
+                "Parent": "",
+                "ShowSubgroup": true,
+                "ShowSubGroupDescription": true,
+                "ShowSubgroupToggle": false,
+                "GroupDescription": "Estas cookies están configuradas por una serie de servicios de redes sociales que hemos agregado al sitio para permitirle compartir nuestro contenido con sus amigos y redes. Son capaces de hacerle seguimiento a su navegador a través de otros sitios y crear un perfil de sus intereses. Esto podrá modificar el contenido y los mensajes que encuentra en otras páginas web que visita. Si no permite estas cookies no podrá ver o usar estas herramientas para compartir.",
+                "GroupName": "Cookies de redes sociales",
+                "IsIabPurpose": false,
+                "FirstPartyCookies": [],
+                "Hosts": [],
+                "PurposeId": "20F0E5D0-6553-4FF9-851C-94627B3E2FF0",
+                "CustomGroupId": "C0005",
+                "GroupId": "f4e757e9-c609-49bd-8dcd-7dd1db78969c",
+                "Status": "inactive",
+                "IsDntEnabled": false,
+                "Type": "COOKIE",
+                "DescriptionLegal": "",
+                "HasLegIntOptOut": false,
+                "HasConsentOptOut": true
+            }
+        ],
+        "Language": {
+            "Culture": "es"
+        },
+        "ShowPreferenceCenterCloseButton": true,
+        "FooterDescriptionText": "",
+        "CustomJs": "",
+        "LifespanTypeText": "Sesión",
+        "LifespanDurationText": "",
+        "CloseText": "Cerrar",
+        "BannerCloseButtonText": "Cerrar",
+        "AddLinksToCookiepedia": false,
+        "showBannerCloseButton": true,
+        "AlertLayout": "bottom",
+        "IsDntEnable": false,
+        "ShowAlertNotice": true,
+        "IsConsentLoggingEnabled": false,
+        "IsIabEnabled": false,
+        "IsIabThirdPartyCookieEnabled": false,
+        "ScrollCloseBanner": false,
+        "OnClickCloseBanner": false,
+        "NextPageCloseBanner": false,
+        "AcceptAllCookies": false,
+        "ConsentModel": "opt-in",
+        "VendorConsentModel": "opt-out",
+        "Vendors": [],
+        "OverriddenVendors": null,
+        "publisher": null,
+        "ScrollAcceptAllCookies": false,
+        "OnClickAcceptAllCookies": false,
+        "NextPageAcceptAllCookies": false,
+        "CookieListEnabled": false,
+        "Flat": true,
+        "FloatingFlat": false,
+        "FloatingRoundedCorner": false,
+        "FloatingRoundedIcon": false,
+        "FloatingRounded": false,
+        "CenterRounded": false,
+        "Center": true,
+        "Panel": false,
+        "Popup": false,
+        "List": false,
+        "Tab": false,
+        "BannerIABPartnersLink": "",
+        "BannerPurposeTitle": "",
+        "BannerPurposeDescription": "",
+        "BannerFeatureTitle": "",
+        "BannerFeatureDescription": "",
+        "BannerInformationTitle": "",
+        "BannerInformationDescription": "",
+        "BannerShowRejectAllButton": true,
+        "BannerRejectAllButtonText": "Rechazarlas todas",
+        "PCenterShowRejectAllButton": true,
+        "PCenterRejectAllButtonText": "Rechazarlas todas",
+        "BannerSettingsButtonDisplayLink": true,
+        "BannerDPDTitle": null,
+        "BannerDPDDescription": null,
+        "BannerDPDDescriptionFormat": null,
+        "PCFirstPartyCookieListText": "Cookies de primeras partes",
+        "PCViewCookiesText": "Visualizar las cookies",
+        "PCenterBackText": "Volver atrás",
+        "PCenterVendorsListText": "Lista de proveedores",
+        "PCenterViewPrivacyPolicyText": "Ver la política de privacidad",
+        "PCenterClearFiltersText": "Eliminar los filtros",
+        "PCenterApplyFiltersText": "Aplicar",
+        "PCenterAllowAllConsentText": "Permitir todos los consentimientos",
+        "PCenterCookiesListText": "Lista de cookies",
+        "PCenterCancelFiltersText": "Cancelar",
+        "PCenterEnableAccordion": false,
+        "IabType": "",
+        "AdvancedAnalyticsCategory": "",
+        "PCGrpDescType": null,
+        "PCGrpDescLinkPosition": null,
+        "PCVendorFullLegalText": null,
+        "LegIntSettings": null,
+        "PCAccordionStyle": "Plusminus",
+        "PCShowConsentLabels": false,
+        "PCActiveText": "Activas",
+        "PCInactiveText": "Desactivadas",
+        "BannerAdditionalDescription": "",
+        "BannerAdditionalDescPlacement": "AfterDescription",
+        "PCenterSelectAllVendorsText": "Seleccionar a todos los proveedores",
+        "PCenterFilterText": "Filtro",
+        "ReconsentFrequencyDays": 365,
+        "UseGoogleVendors": false,
+        "PCIABVendorsText": "IAB Vendors",
+        "PCGoogleVendorsText": "Google Vendors",
+        "PCTemplateUpgrade": true
+    },
+    "CommonData": {
+        "IabThirdPartyCookieUrl": "cookies.onetrust.mgr.consensu.org",
+        "OptanonHideAcceptButton": "",
+        "OptanonStyle": "modern",
+        "OptanonStaticContentLocation": "",
+        "BannerCustomCSS": "",
+        "PCCustomCSS": "",
+        "PcTextColor": "#030303",
+        "PcButtonColor": "#002D74",
+        "PcButtonTextColor": "#FFFFFF",
+        "PcBackgroundColor": "#D7DDE0",
+        "PcMenuColor": "#F4F4F4",
+        "PcMenuHighLightColor": "#FFFFFF",
+        "PcAccordionBackgroundColor": "#E9E9E9",
+        "PCenterExpandToViewText": "",
+        "PcEnableToggles": false,
+        "PcLinksTextColor": "#002D74",
+        "TextColor": "#030303",
+        "ButtonColor": "#002D74",
+        "BannerMPButtonColor": "#FFFFFF",
+        "BannerMPButtonTextColor": "#002D74",
+        "ButtonTextColor": "#FFFFFF",
+        "BackgroundColor": "#D7DDE0",
+        "BannerLinksTextColor": "#002D74",
+        "BannerAccordionBackgroundColor": "#E9E9E9",
+        "OptanonLogo": "https://cdn.cookielaw.org/logos/99050048-23ce-4242-a22a-0b4ad2dcb5af/1dccfcd1-2f2d-4a01-89cf-b8ec419c0249/02ef5fd1-88f6-43e7-8690-e7b87092eee5/Crypto.com_Blue_horizontal.png",
+        "OneTrustFooterLogo": "https://cdn.cookielaw.org/logos/static/poweredBy_ot_logo.svg",
+        "OptanonCookieDomain": "crypto.com",
+        "OptanonGroupIdPerformanceCookies": "C0002",
+        "OptanonGroupIdFunctionalityCookies": "C0003",
+        "OptanonGroupIdTargetingCookies": "C0004",
+        "OptanonGroupIdSocialCookies": "C0005",
+        "ShowSubGroupCookies": false,
+        "LegacyBannerLayout": "default_flat_bottom_two_button_black",
+        "OptanonHideCookieSettingButton": "",
+        "UseRTL": false,
+        "ShowBannerAcceptButton": true,
+        "ShowBannerCookieSettings": true,
+        "ShowCookieList": true,
+        "PCShowCookieHost": true,
+        "PCShowCookieDuration": true,
+        "PCShowCookieType": true,
+        "PCShowCookieCategory": true,
+        "PCShowCookieDescription": true,
+        "AllowHostOptOut": false,
+        "CookieListTitleColor": "#696969",
+        "CookieListGroupNameColor": "#696969",
+        "CookieListTableHeaderColor": "#696969",
+        "CookieListTableHeaderBackgroundColor": "#F8F8F8",
+        "CookiesV2NewCookiePolicy": true,
+        "CookieListPrimaryColor": "#696969",
+        "CookieListCustomCss": "",
+        "ConsentIntegration": {
+            "ConsentApi": null,
+            "RequestInformation": null
+        },
+        "BConsentPurposesText": "Propósitos del consentimiento",
+        "BFeaturesText": "Funcionalidades",
+        "BLegitimateInterestPurposesText": "Legitimate Interest Purposes",
+        "BSpecialFeaturesText": "Funciones especiales",
+        "BSpecialPurposesText": "Propósitos especiales",
+        "BConsentText": "Consentimiento",
+        "BLegitInterestText": "Interés legítimo",
+        "IabLegalTextUrl": "https://tcf.cookiepedia.co.uk",
+        "PCCListName": "Nombre",
+        "PCCListHost": "Huésped",
+        "PCCListDuration": "Duración",
+        "PCCListType": "Tipo",
+        "PCCListCategory": "Categoría",
+        "PCCListDescription": "Descripción",
+        "PCDialogClose": "caja de diálogo cerrada"
+    }

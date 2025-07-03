@@ -1,0 +1,47 @@
+[
+    {
+        "gun": "Vpr-Hunter",
+        "cartridge": "7.62x51mm",
+        "ammunitionType": "7.62x51mm FMJ",
+        "velocity": 840.0,
+        "buildingName": "Miramar Plaza Center",
+        "buildingHeight": 78.33,
+        "planet": "Earth"
+    },
+    {
+        "gun": "AK-74",
+        "cartridge": "5.45x39mm",
+        "ammunitionType": "5.45x39mm PPBS gs",
+        "velocity": 905.0,
+        "buildingName": "Miramar Plaza Center",
+        "buildingHeight": 78.33,
+        "planet": "Venus"
+    },
+    {
+        "gun": "ADAR 2-15",
+        "cartridge": "5.56x45mm",
+        "ammunitionType": "5.56x45mm HP",
+        "velocity": 957.0,
+        "buildingName": "Miramar Plaza Center",
+        "buildingHeight": 78.33,
+        "planet": "Mars"
+    },
+    {
+        "gun": "AS VAL 9x39",
+        "cartridge": "9x39mm",
+        "ammunitionType": "9x39mm BP gs",
+        "velocity": 310.0,
+        "buildingName": "Miramar Plaza Center",
+        "buildingHeight": 78.33,
+        "planet": "Jupiter"
+    },
+    {
+        "gun": "FN GL40",
+        "cartridge": "40x46 mm",
+        "ammunitionType": "40x46mm M381(HE) grenade",
+        "velocity": 76.0,
+        "buildingName": "Miramar Plaza Center",
+        "buildingHeight": 78.33,
+        "planet": "Uranus"
+    }
+]

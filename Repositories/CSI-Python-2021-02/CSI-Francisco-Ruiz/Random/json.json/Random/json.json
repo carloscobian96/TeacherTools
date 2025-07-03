@@ -1,0 +1,15 @@
+{
+    "status": 200,
+    "requestId": "6db0c429930a4fe892bd8bfa038bd0b6",
+    "client": "mcdonaldscorporation",
+    "id": {
+        "tntId": "85bcf8d800844a70a83fc0cd926500c7.34_0",
+        "marketingCloudVisitorId": "20469704021250353762017531478954452333"
+    },
+    "edgeHost": "mboxedge34.tt.omtrdc.net",
+    "prefetch": {},
+    "telemetryServerToken": "QxcuwTgQLYnj/aSGb/2Tc/cFnWEtREaMhQ1OiVrjoN0=",
+    "execute": {
+        "pageLoad": {}
+    }
+}

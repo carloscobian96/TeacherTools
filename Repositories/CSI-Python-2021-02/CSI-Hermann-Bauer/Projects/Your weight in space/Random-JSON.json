@@ -1,0 +1,24 @@
+[
+    {
+        "result": [
+            {
+                "Email": "Druizvelez1@pucpr.edu",
+                "Password": "Diego02@",
+                "Nombre": "Diego",
+                "Inicial": "A",
+                "Apellido": "Ruiz",
+                "Size": "L",
+                "Vacunado": "SI",
+                "Nivel": "ADVANCED",
+                "Celular": "787-245-5564",
+                "Telefono": "-",
+                "Genero": "MALE",
+                "DOB": "1999-02-15",
+                "Precio": "25.00",
+                "Prioridad": "0"
+            }
+        ],
+        "errmsg": "",
+        "status": "ok"
+    }
+]

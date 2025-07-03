@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MainProject</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/csi/irene/ascii/ASCII-Art-CSI-Jose-Quintana-1 parte 2.png.png</name>
+			<type>1</type>
+			<location>C:/Users/pedro/Downloads/ASCII-Art-CSI-Jose-Quintana-1 parte 2.png.png</location>
+		</link>
+		<link>
+			<name>src/csi/irene/ascii/ASCII-Art-CSI-Jose-Quintana-1.png.png</name>
+			<type>1</type>
+			<location>C:/Users/pedro/Downloads/ASCII-Art-CSI-Jose-Quintana-1.png.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>

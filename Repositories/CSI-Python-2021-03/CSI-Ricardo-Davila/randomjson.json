@@ -1,0 +1,923 @@
+{
+    "broadcastEventsData": {
+        "68fc4b3c-0578-4db5-a016-1cec8371d5c7": {
+            "lcid": null,
+            "chatStatus": "ENABLED",
+            "isChatEnabled": true,
+            "isCarouselEnabled": true,
+            "highlightedSegmentItemId": "7c6dc821-3078-4f6b-8125-794035b9711e",
+            "description": null,
+            "livePlaybackUrl": "https://4b64d6fa612f.us-east-1.playback.live-video.net/api/video/v1/us-east-1.408268288382.channel.riFVbyNV9Xmx.m3u8",
+            "broadcastStatus": "LIVE",
+            "generatedDateTime": "2022-01-21T14:20:23.949Z",
+            "title": "Friday Deals✌🏻The Original✌🏻Let\u2019s Chat",
+            "shoppingCarouselHash": "9572983B4C558BF5D5E5E4FF56CCAABD",
+            "vodEvents": null,
+            "videoMetadata": {
+                "metadata": {
+                    "twitchCustomerId": "AmazonLiveTools-prod",
+                    "twitchContentId": "fec6e9ed-9377-43ec-973e-bf9f07022d6b",
+                    "twitchSessionId": "st-1DiESYgpbmVHNyMQw2ShFTR"
+                },
+                "videoStack": "LVS_TWITCH"
+            },
+            "startDateTime": null,
+            "pinnedMessage": null,
+            "asinPromoCodeMap": {},
+            "vibesEvents": {
+                "startTime": "2022-01-21T14:20:15Z",
+                "endTime": "2022-01-21T14:20:21Z",
+                "events": [
+                    {
+                        "eventContent": "B09FRJD37G",
+                        "id": "90c67d7c-ffc3-4585-9100-404bb881e2d0",
+                        "eventType": "seeDetails",
+                        "timestamp": "2022-01-21T14:20:15.885Z"
+                    },
+                    {
+                        "eventContent": "B09KH398RY",
+                        "id": "76901f2b-8c1e-4bca-91e0-a5e8aa6139a4",
+                        "eventType": "seeDetails",
+                        "timestamp": "2022-01-21T14:20:18.808Z"
+                    },
+                    {
+                        "eventContent": "B08SP5GYJP",
+                        "id": "5223088e-d86c-4d1d-a525-5c8188d3028b",
+                        "eventType": "seeDetails",
+                        "timestamp": "2022-01-21T14:20:19.332Z"
+                    }
+                ]
+            },
+            "id": "68fc4b3c-0578-4db5-a016-1cec8371d5c7",
+            "perks": {
+                "deals": {
+                    "B09PJYXMFJ": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "984a4363",
+                        "percentOff": 20,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 0,
+                            "currencySymbol": "$",
+                            "wholeValue": 479
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 0,
+                            "currencySymbol": "$",
+                            "wholeValue": 599
+                        },
+                        "primeExclusive": false
+                    },
+                    "B08YRWPLYW": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "0090909e",
+                        "percentOff": 23,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 95,
+                            "currencySymbol": "$",
+                            "wholeValue": 99
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 129
+                        },
+                        "primeExclusive": false
+                    },
+                    "B08NQD4FBW": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "359ce51c",
+                        "percentOff": 23,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 0,
+                            "currencySymbol": "$",
+                            "wholeValue": 999
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 0,
+                            "currencySymbol": "$",
+                            "wholeValue": 1299
+                        },
+                        "primeExclusive": false
+                    },
+                    "B07HFG93GK": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "ce50ec3a",
+                        "percentOff": 39,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 45,
+                            "currencySymbol": "$",
+                            "wholeValue": 42
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 95,
+                            "currencySymbol": "$",
+                            "wholeValue": 69
+                        },
+                        "primeExclusive": false
+                    },
+                    "B08C4LC7TG": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "171b8a77",
+                        "percentOff": 33,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 0,
+                            "currencySymbol": "$",
+                            "wholeValue": 399
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 599
+                        },
+                        "primeExclusive": false
+                    },
+                    "B077RVYZRF": {
+                        "promotions": null,
+                        "percentClaimed": 10,
+                        "primeAccessType": "PRIME_EARLY_ACCESS",
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "ba826f75",
+                        "percentOff": 35,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 237
+                        },
+                        "dealType": "LIGHTNING_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 363
+                        },
+                        "primeExclusive": false
+                    },
+                    "B09FRJD37G": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "9a8903a2",
+                        "percentOff": 10,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 1169
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 1299
+                        },
+                        "primeExclusive": false
+                    },
+                    "B08XLN69WS": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "3c7e7a0f",
+                        "percentOff": 10,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 0,
+                            "currencySymbol": "$",
+                            "wholeValue": 1798
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 1999
+                        },
+                        "primeExclusive": false
+                    },
+                    "B08KXPRJ5D": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "97f4035f",
+                        "percentOff": 15,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 67
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 79
+                        },
+                        "primeExclusive": false
+                    },
+                    "B09KH398RY": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "1834d7eb",
+                        "percentOff": 24,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 67
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 89
+                        },
+                        "primeExclusive": false
+                    },
+                    "B093BTKL9S": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "8837782f",
+                        "percentOff": 14,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 9,
+                            "currencySymbol": "$",
+                            "wholeValue": 47
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 54
+                        },
+                        "primeExclusive": false
+                    },
+                    "B002QZ11J6": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "5b00b616",
+                        "percentOff": 18,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 106
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 129
+                        },
+                        "primeExclusive": false
+                    },
+                    "B099HXDWZS": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "769b463f",
+                        "percentOff": 38,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 98,
+                            "currencySymbol": "$",
+                            "wholeValue": 79
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 98,
+                            "currencySymbol": "$",
+                            "wholeValue": 129
+                        },
+                        "primeExclusive": false
+                    },
+                    "B094YXVVRF": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "769b463f",
+                        "percentOff": 36,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 98,
+                            "currencySymbol": "$",
+                            "wholeValue": 89
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 98,
+                            "currencySymbol": "$",
+                            "wholeValue": 139
+                        },
+                        "primeExclusive": false
+                    },
+                    "B08L7D38ZL": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "4132f088",
+                        "percentOff": 15,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 98,
+                            "currencySymbol": "$",
+                            "wholeValue": 33
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 98,
+                            "currencySymbol": "$",
+                            "wholeValue": 39
+                        },
+                        "primeExclusive": false
+                    },
+                    "B08SP5GYJP": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "76a0b9ea",
+                        "percentOff": 35,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 0,
+                            "currencySymbol": "$",
+                            "wholeValue": 179
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 0,
+                            "currencySymbol": "$",
+                            "wholeValue": 274
+                        },
+                        "primeExclusive": false
+                    },
+                    "B08XVYZ1Y5": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "87c0c6f9",
+                        "percentOff": 40,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 29
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 49
+                        },
+                        "primeExclusive": false
+                    },
+                    "B083JKSSR5": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "fcdd2bd6",
+                        "percentOff": 17,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 24
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 29
+                        },
+                        "primeExclusive": false
+                    },
+                    "B07QXM2V6X": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "6579fa7b",
+                        "percentOff": 35,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 0,
+                            "currencySymbol": "$",
+                            "wholeValue": 849
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 1299
+                        },
+                        "primeExclusive": false
+                    },
+                    "B07BN3XTFZ": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "8fca4759",
+                        "percentOff": 20,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 10,
+                            "currencySymbol": "$",
+                            "wholeValue": 31
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 0,
+                            "currencySymbol": "$",
+                            "wholeValue": 39
+                        },
+                        "primeExclusive": false
+                    },
+                    "B089P4WW65": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "fde6bfa1",
+                        "percentOff": 15,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 16
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 19
+                        },
+                        "primeExclusive": false
+                    },
+                    "B08ZVY5675": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "2df22faa",
+                        "percentOff": 18,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 0,
+                            "currencySymbol": "$",
+                            "wholeValue": 139
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 169
+                        },
+                        "primeExclusive": false
+                    },
+                    "B085T53CVH": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "726c275b",
+                        "percentOff": 15,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 169
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 199
+                        },
+                        "primeExclusive": false
+                    },
+                    "B078YLFFXL": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "a0cc85f9",
+                        "percentOff": 14,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 24
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 28
+                        },
+                        "primeExclusive": false
+                    },
+                    "B08SWD2SCK": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "82e8d33c",
+                        "percentOff": 30,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 259
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 369
+                        },
+                        "primeExclusive": false
+                    },
+                    "B07V4D9KK7": {
+                        "promotions": null,
+                        "percentClaimed": 10,
+                        "primeAccessType": "PRIME_EARLY_ACCESS",
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "6fe3dc99",
+                        "percentOff": 45,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 10
+                        },
+                        "dealType": "LIGHTNING_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 19
+                        },
+                        "primeExclusive": false
+                    },
+                    "B0874YZVWK": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "61fa6806",
+                        "percentOff": 29,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 119
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 169
+                        },
+                        "primeExclusive": false
+                    },
+                    "B08K74WBJS": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "5f4ad0a5",
+                        "percentOff": 39,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 169
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 279
+                        },
+                        "primeExclusive": false
+                    },
+                    "B08HHXK475": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "5d46aa4b",
+                        "percentOff": 25,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 10,
+                            "currencySymbol": "$",
+                            "wholeValue": 77
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 97,
+                            "currencySymbol": "$",
+                            "wholeValue": 102
+                        },
+                        "primeExclusive": false
+                    },
+                    "B083WDVSYY": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "a8622070",
+                        "percentOff": 33,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 228
+                        },
+                        "dealType": "DEAL_OF_THE_DAY",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 339
+                        },
+                        "primeExclusive": false
+                    },
+                    "B08T6F8YBH": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "035e1a2a",
+                        "percentOff": 28,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 364
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 509
+                        },
+                        "primeExclusive": false
+                    },
+                    "B07YNLBS7R": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "0625d700",
+                        "percentOff": 37,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 18
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 29
+                        },
+                        "primeExclusive": false
+                    },
+                    "B08WJMSS8H": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "9eb73add",
+                        "percentOff": 33,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 0,
+                            "currencySymbol": "$",
+                            "wholeValue": 798
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 1199
+                        },
+                        "primeExclusive": false
+                    },
+                    "B005KMDV9A": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "73ec3d7d",
+                        "percentOff": 17,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 165
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 199
+                        },
+                        "primeExclusive": false
+                    },
+                    "B085NPCQLT": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "bd0c40be",
+                        "percentOff": 47,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 48,
+                            "currencySymbol": "$",
+                            "wholeValue": 42
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 79
+                        },
+                        "primeExclusive": false
+                    },
+                    "B07JXRWJ8D": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "d26972b5",
+                        "percentOff": 19,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 104
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 129
+                        },
+                        "primeExclusive": false
+                    },
+                    "B094NYHTMF": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "67998278",
+                        "percentOff": 30,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 0,
+                            "currencySymbol": "$",
+                            "wholeValue": 599
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 849
+                        },
+                        "primeExclusive": false
+                    },
+                    "B098RDGJNQ": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "33cd9290",
+                        "percentOff": 25,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 149
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 199
+                        },
+                        "primeExclusive": false
+                    },
+                    "B08F6L6HVP": {
+                        "promotions": null,
+                        "percentClaimed": 0,
+                        "primeAccessType": null,
+                        "endDate": "1970-01-01T00:00:00Z",
+                        "primeBenefitSaving": null,
+                        "dealId": "d98ba882",
+                        "percentOff": 27,
+                        "state": "",
+                        "dealPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 109
+                        },
+                        "dealType": "BEST_DEAL",
+                        "listPrice": {
+                            "fractionalValue": 99,
+                            "currencySymbol": "$",
+                            "wholeValue": 149
+                        },
+                        "primeExclusive": false
+                    }
+                },
+                "throttled": false
+            },
+            "isLiveBadgeEnabled": true,
+            "liveViewers": 367,
+            "interactiveEvents": [],
+            "vods": null,
+            "hlsUrl": null
+        }
+    },
+    "version": "1.0"
+}

@@ -1,0 +1,7 @@
+print("FFFFF RRRR    AAA   N       N")
+print("F     R   R  A   A  N N     N")
+print("F     R   R  A   A  N   N   N")
+print("FFF   RRRR   AAAAA  N   N   N")
+print("F     R  R   A   A  N     N N")
+print("F     R   R  A   A  N     N N")
+print("F     R    R A   A  N       N")

@@ -1,0 +1,7 @@
+print("ZZZZZ  EEEEE  K   K  EEEEE")
+print("    Z  E      K  K   E    ")
+print("  ZZ   E      K K    E    ")
+print(" ZZ    EEEEE  K      EEEEE")
+print("ZZ     E      K K    E    ")
+print("Z      E      K  K   E    ")
+print("ZZZZZ  EEEEE  K   K  EEEEE")

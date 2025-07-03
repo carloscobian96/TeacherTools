@@ -1,0 +1,47 @@
+[
+    {
+        "gun": "APB",
+        "cartridge": "9x18mm",
+        "bullet": "9x18mm PM BZhT gzh",
+        "velocity": 325.0,
+        "buildingName": 828.0,
+        "buildingHeight": 828.0,
+        "planet": "Mercury"
+    },
+    {
+        "gun": "SKS",
+        "cartridge": "7.62x39mm",
+        "bullet": "7.62x39mm PS gzh",
+        "velocity": 700.0,
+        "buildingName": 828.0,
+        "buildingHeight": 828.0,
+        "planet": "Saturn"
+    },
+    {
+        "gun": "MP5",
+        "cartridge": "9x19mm Parabellum",
+        "bullet": "9x19mm Pst gzh",
+        "velocity": 457.0,
+        "buildingName": 828.0,
+        "buildingHeight": 828.0,
+        "planet": "Jupiter"
+    },
+    {
+        "gun": "DVL-10",
+        "cartridge": "7.62x51mm NATO",
+        "bullet": "7.62x51mm M80",
+        "velocity": 833.0,
+        "buildingName": 828.0,
+        "buildingHeight": 828.0,
+        "Planet": "Venus"
+    },
+    {
+        "gun": "FN GL40",
+        "cartridge": "40x46 mm",
+        "bullet": "40x46mm M381(HE) grenade",
+        "velocity": 76.0,
+        "buildingName": 828.0,
+        "buildingHeight": 828.0,
+        "Planet": "Mars"
+    }
+]

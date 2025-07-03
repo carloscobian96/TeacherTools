@@ -1,0 +1,47 @@
+[
+    {
+        "Gunname": "HK 416A5",
+        "Guncartridge": "5.56x45mm NATO",
+        "Round": "5.56x45 HP",
+        "ammo_speed": 947,
+        "building": "Burj Khalifa",
+        "bulding_height_M": 828,
+        "planet": "Earth"
+    },
+    {
+        "Gunname": "HK 416A5",
+        "Guncartridge": "5.56x45mm NATO",
+        "Round": "5.56x45 HP",
+        "ammo_speed": 947,
+        "building": "Burj Khalifa",
+        "bulding_height_M": 828,
+        "planet": "Mars"
+    },
+    {
+        "Gunname": "HK 416A5",
+        "Guncartridge": "5.56x45mm NATO",
+        "Round": "5.56x45 HP",
+        "ammo_speed": 947,
+        "building": "Burj Khalifa",
+        "bulding_height_M": 828,
+        "planet": "Mercury"
+    },
+    {
+        "Gunname": "HK 416A5",
+        "Guncartridge": "5.56x45mm NATO",
+        "Round": "5.56x45 HP",
+        "ammo_speed": 947,
+        "building": "Burj Khalifa",
+        "bulding_height_M": 828,
+        "planet": "Venus"
+    },
+    {
+        "Gunname": "HK 416A5",
+        "Guncartridge": "5.56x45mm NATO",
+        "Round": "5.56x45 HP",
+        "ammo_speed": 947,
+        "building": "Burj Khalifa",
+        "bulding_height_M": 828,
+        "planet": "Jupiter"
+    }
+]

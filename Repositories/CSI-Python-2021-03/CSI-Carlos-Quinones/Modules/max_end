@@ -1,0 +1,18 @@
+max_end3 = [4,5,6]
+
+
+def largerNumFind(arr3):
+    arrayFirstNumber = arr3[0]
+    arrayLastNumber = arr3[2]
+    if(arrayFirstNumber >arrayLastNumber ):
+        arr3 = [arrayFirstNumber,arrayFirstNumber,arrayFirstNumber]
+    else:
+        arr3 = [arrayLastNumber,arrayLastNumber,arrayLastNumber]
+    print(arr3)
+    
+largerNumFind(max_end3)
+
+
+
+
+    

@@ -1,0 +1,47 @@
+[
+    {
+        "WeaponName": "ASh-12",
+        "CartridgeCaliber": "12.7x55mm",
+        "AmmunitionType": "12.7x55mm STs-130",
+        "Velocity": 285,
+        "BuildingName": "Lotte World Tower",
+        "BuildingHeight": 555,
+        "Planet": "Earth"
+    },
+    {
+        "WeaponName": "AK-104",
+        "CartridgeCaliber": "7.62x39mm",
+        "AmmunitionType": "7.62x39mm BP gzh",
+        "Velocity": 730,
+        "BuildingName": "Lotte World Tower",
+        "BuildingHeight": 555,
+        "Planet": "Uranus"
+    },
+    {
+        "WeaponName": "AS VAL",
+        "CartridgeCaliber": "9x39mm",
+        "AmmunitionType": "9x39 mm SP5 gs",
+        "Velocity": 290,
+        "BuildingName": "Lotte World Tower",
+        "BuildingHeight": 555,
+        "Planet": "Mars"
+    },
+    {
+        "WeaponName": "RPK-16",
+        "CartridgeCaliber": "5.45x39mm",
+        "AmmunitionType": "5.45x39mm PS gs",
+        "Velocity": 890,
+        "BuildingName": "Lotte World Tower",
+        "BuildingHeight": 555,
+        "Planet": "Jupiter"
+    },
+    {
+        "WeaponName": "M1A",
+        "CartridgeCaliber": "7.62x51mm NATO",
+        "AmmunitionType": "7.62x51mm M80",
+        "Velocity": 833,
+        "BuildingName": "Lotte World Tower",
+        "BuildingHeight": 555,
+        "Planet": "Neptune"
+    }
+]

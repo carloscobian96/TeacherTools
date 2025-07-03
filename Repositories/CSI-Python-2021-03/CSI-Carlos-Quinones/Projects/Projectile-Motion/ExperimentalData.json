@@ -1,0 +1,47 @@
+[
+    {
+        "gun": "Kedr-B 9x18PM submachine gun",
+        "cartridgeCalibre": "9x18mm Makarov",
+        "bulletRound": "9x18mm PM P gzh",
+        "projectileVelocity": 289,
+        "building": "30 St. Mary Axe",
+        "buildingHeight": 179.8015,
+        "gravity": 0.38
+    },
+    {
+        "gun": "AKS-74UB 5.45x39 assault rifle",
+        "cartridgeCalibre": "5.45x39mm",
+        "bulletRound": "5.45x39mm PS gs",
+        "projectileVelocity": 730,
+        "building": "30 St. Mary Axe",
+        "buildingHeight": 179.8015,
+        "gravity": 1.07
+    },
+    {
+        "gun": "Knight's Armament Company SR-25 7.62x51 marksman rifle",
+        "cartridgeCalibre": "7.62x51mm NATO",
+        "bulletRound": "7.62x51mm M80",
+        "projectileVelocity": 787,
+        "building": "30 St. Mary Axe",
+        "buildingHeight": 179.8015,
+        "gravity": 9.8
+    },
+    {
+        "gun": "Mk-18 .338 LM marksman rifle",
+        "cartridgeCalibre": "\t.338 Lapua Magnum",
+        "bulletRound": ".338 Lapua Magnum FMJ",
+        "projectileVelocity": 890,
+        "building": "30 St. Mary Axe",
+        "buildingHeight": 179.8015,
+        "gravity": 2.53
+    },
+    {
+        "gun": "SV-98 bolt-action sniper rifle",
+        "cartridgeCalibre": "7.62x54mmR",
+        "bulletRound": "7.62x54R LPS gzh",
+        "projectileVelocity": 865,
+        "building": "30 St. Mary Axe",
+        "buildingHeight": 179.8015,
+        "gravity": 9.8
+    }
+]

@@ -129,7 +129,7 @@ def cloneClassRepo(classSection):
             print("Folder Exists")
 
         url = f"https://github.com/{student['name']}/{classSection['course']}"
-        subprocess.run(f"git clone {url} {str(projectPathPath)}")
+        subprocess.run(["git", "clone", url, str(projectPathPath)])
 
 # ----====o====----
 # Load Sections
@@ -157,7 +157,18 @@ single = json.load(open(classFile,))
 # ----====o====----
 
 selected = python[0]
+cloneClassRepo(selected)
 
+selected = python[1]
+cloneClassRepo(selected)
+
+selected = java[0]
+cloneClassRepo(selected)
+
+selected = novaTech[0]
+cloneClassRepo(selected)
+
+selected = novaTech[1]
 cloneClassRepo(selected)
 
 

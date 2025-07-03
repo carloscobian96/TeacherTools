@@ -1,0 +1,11 @@
+{
+    "id": 2305,
+    "uid": "0acdd49a-3476-434d-b217-ac3cabf784de",
+    "valid_card": "3566002020360505",
+    "token": "tok_diners",
+    "invalid_card": "4000000000000341",
+    "month": "07",
+    "year": "2023",
+    "ccv": "881",
+    "ccv_amex": "1687"
+}

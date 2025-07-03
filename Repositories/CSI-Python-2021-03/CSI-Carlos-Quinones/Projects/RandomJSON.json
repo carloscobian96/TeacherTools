@@ -1,0 +1,13 @@
+{
+    "created_at": "2022-01-21T14:21:36.106478Z",
+    "id5_consent": true,
+    "original_uid": "ID5*t7otoQtABl5RVOVQubMRCBOPwcaDDKLqMXl-LiehuPsFb7t5N-MVVtghJR3qivRwBXA64rkWRyqT38urS_NsFwVxXavdQznUma1AuKowa8YFcgoAq8WzF-H3z6lNnikKBXNh286Pdt0U8z4L0GCBSQV0MNSaUoBeC8em0iKf6yYFdRu6LSjpJGdF1V9ojg8VBXZJfCZmMlIbSsCS1r4O1gV3fRqjoly5_EviwZHrZZEFeOWKLMoOSPTfnh1zDF8OBXnTwt771kS9jrkyDXCuJgV6S8y5SPJkN81cwTwvW34Fe3bJbH5AKgvti6q5-VXXBXy_qJ4bGrSI7oB_I9Q56QV9l2-6czhvjOpU2ECcyrYFfk-im2GCN4nQ5m7CK3cDBX9BDqo5C8Q6d8DUWbz5QgWAv-Q6vCyJStY7jLxhs5sFgRx4qp7ZHJCvlqyW9FS2BYKpHUaL41MWs1ClXTID1AWDSxRkXhuz403GhkXd414FhCbx_bcyQTU8_i6McytABYUPwS43BQuduC8rIy_YAAWGS3heIMioE40guxKof9IFhwWKxddjRiiCgeO1razQ",
+    "universal_uid": "ID5*tD_-EOUdDA6b9TgGn0LeFHS5E-809ikb5v2ZOX4EYeoFb-QnhjykAoyIiGtwW4QZBXABzYMYhQ7mBuHzfRzCdwVxYOtEfEIUO_HbVLXzJpgFchqCzAt5lRg66dMNWIf2BXP4xQ7EHlh-RFI1t_F6qwV0949OobwGl51iu-oh11YFdY3H_q3o6TzXWcwynLppBXbXIZFT8OZhpj1IdSVKOgV3zX7TbX5giRgaFF1Up_8FeNzqyNOspkSK9zro0FhwBXlb37yfAo8Dgvn0KjwxygV6GD2A0MF8MogHNK3IhgUFewBL5jzEcHihexmpu1_LBXxPLlFsBv-rssDzN3pYiAV9DRqDc8KhxmPg_2jk5a8FfkUPcgEB51YSs7sY9l7rBX8J0pzcQdNziPPuIb3xgAWAe0TBYeuV3KsZvkCbINAFgSQp4Kn_ss98-qcCPPtlBYLVuciZbI0SxWAKImgQlgWDJmcB-PZmRgUP_rwKUIcFhLyyir60XAdynCvac8v1BYXJIdEJYPCPXRK59yfkeQWGM2acy0zpH0-hnWFPtB0Fh6TGvQAlyyKUnfxV26sv",
+    "signature": "ID5_AVUEAzhvztuEhZKLDQciupaH4LkVN5kDJy8-VVKX_4qvw3hxbbwgsBeWLjZPHPF8heUQFTuZXS7TFKN1-vJtHQ4",
+    "link_type": 2,
+    "cascade_needed": true,
+    "privacy": {
+        "jurisdiction": "other",
+        "id5_consent": true
+    }
+}
